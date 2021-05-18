@@ -13,16 +13,16 @@ For our final project, we decided to create a speech classifier that can detect 
 David Guy Brizan
 
 ### Data source
+Crowd Sourced Emotional Multimodal Actors Dataset (CREMA-D)
 https://github.com/CheyneyComputerScience/CREMA-D
 
 ### How to run
-Download data: https://drive.google.com/drive/folders/1S4vR3UQ1-JvKyqqh9KHCBhhLsyQVcHuk?usp=sharing
-Clone Github repo: https://github.com/tiffanyhltse/cs663-final-ml-project
-
-Paste the whole data folder in the repo's root directory. Open Jupyter notebook and run the .ipynb files accordingly.
+1. Clone Github repo: https://github.com/tiffanyhltse/cs663-final-ml-project
+2. Download data: https://drive.google.com/drive/folders/1S4vR3UQ1-JvKyqqh9KHCBhhLsyQVcHuk?usp=sharing
+3. Paste the whole data folder in the repo's root directory. Open Jupyter notebook and run the .ipynb files accordingly, can be any orders, totally up to you.
 
 ### File tree
-cs663-final-ml-project
+- cs663-final-ml-project
     - data
         - mfcc_mel
         - AudioWAV
