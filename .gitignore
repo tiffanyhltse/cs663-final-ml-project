@@ -1,3 +1,5 @@
 
 .DS_Store
 data/.DS_Store
+data/2d_mfcc/features.txt
+data/2d_mfcc/targets.txt
