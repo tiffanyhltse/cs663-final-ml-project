@@ -24,9 +24,9 @@ https://github.com/CheyneyComputerScience/CREMA-D
 ### File tree
 - cs663-final-ml-project
     - data
-        - *mfcc_mel
-        - *AudioWAV
-        - *2d_mfcc
+        - mfcc_mel*
+        - AudioWAV*
+        - 2d_mfcc*
         - original_mfcc_data.csv
         - VideoDemographics.csv
     - 1_EDA.ipynb
