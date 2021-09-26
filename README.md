@@ -44,3 +44,6 @@ https://github.com/CheyneyComputerScience/CREMA-D
 - Final models:
     - 5_mfcc_mel_LSTM.ipynb
     - 6_mfcc_CNN_final.ipynb
+
+### (Presentation)
+[https://docs.google.com/presentation/d/17xu0_qzgtfR6XQrorcgNNfy8uQbT2i1e/edit?usp=sharing&ouid=106516828913598115079&rtpof=true&sd=true]
